@@ -1,0 +1,8 @@
+  {
+      user_id: this.state.user_id,
+      first_name: this.state.first_name,
+      last_name: this.state.last_name,
+      age: this.state.age,
+      gender: this.state.gender,
+      address: this.state.address
+    }
